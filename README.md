@@ -1,5 +1,5 @@
 
-> Open this page at [https://liewchooichin.github.io/maqueen-follow-line-v2-2/](https://liewchooichin.github.io/maqueen-follow-line-v2-2/)
+> Open this page at [maqueen-follow-line-v2-2](https://makecode.microbit.org/S54398-35692-38664-22077)
 
 # Notes
 
